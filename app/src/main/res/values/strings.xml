@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab5_easy</string>
+    <string name="action_create">Создать</string>
+    <string name="action_edit">Изменить</string>
+    <string name="action_delete">Удалить</string>
+    <string name="action_new_person">Новый пользователь</string>
+</resources>
